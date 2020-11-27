@@ -50,7 +50,7 @@ function preload(){
 
 
 function draw() {
-  background("lightgreen");
+  background("blue");
   text("Score:"+score,200,40);
   text("SURVIVAL TIME:"+life,400,40)
 
